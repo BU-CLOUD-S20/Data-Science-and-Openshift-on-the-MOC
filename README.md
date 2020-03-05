@@ -7,7 +7,7 @@
 -   Michael Clifford, RedHat Inc.
 -   Anand Sanmukhani, RedHat Inc.
 
-**TEAM**
+**Team**
 --------
 
 -   Yousif Khaireddin
