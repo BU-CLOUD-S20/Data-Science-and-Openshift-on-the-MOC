@@ -97,4 +97,10 @@ model.
 
 6.  Migrate built ML Algorithms and models onto DataHub (05/05)
 
+**Links to Presentations / Class Lecture**
+------------------------------------------
 
+Sprint 1       - https://docs.google.com/presentation/d/1e0QByoGbPIJOFgC1vTweVz-FojE6N5Hi5WudWHgsejo/edit?usp=sharing
+Sprint 2       - https://docs.google.com/presentation/d/1dPSQh8Krn7tUywDNkpLJDfgINSiGLM3xvb2xzg5roNw/edit?usp=sharing
+Sprint 3       - https://docs.google.com/presentation/d/1OzxMYc6w3MnnibcYa0E3kfOTpYQVMb-EOxH3OYkl-BI/edit?usp=sharing
+MapReduce Talk - https://docs.google.com/presentation/d/1tAceg0GshV3ne7VhNXuVF9yplu7TTYOk8pgo5Ifo5ks/edit?usp=sharing
