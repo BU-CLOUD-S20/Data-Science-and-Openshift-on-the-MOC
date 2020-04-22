@@ -27,7 +27,7 @@
    
 -   Developing and deploying a new ML model (LSTM) onto [DataHub](http://opendatahub.io/), a blueprint for building an AI application as a service platform on the OpenShift Container Platform.
  
--   Testing the workings of DataHub and reporting any problems for future ramifications.
+-   Testing the workings of DataHub on the MOC and reporting any problems for future ramifications.
 
 
 **Users/Personas**
