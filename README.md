@@ -22,6 +22,10 @@
 
 Click [here](https://github.com/BU-CLOUD-S20/Data-Science-and-Openshift-on-the-MOC/blob/master/Data%20Science%20and%20Openshift%20on%20the%20MOC_projectReport.pdf) for a comprehensive Project Report
 
+Our GitHub repo containing our Prometheus Anomaly Detector can be found [here](https://github.com/pallekc91/prometheus-anomaly-detector)
+
+
+
 **Goals**
 ---------
 
