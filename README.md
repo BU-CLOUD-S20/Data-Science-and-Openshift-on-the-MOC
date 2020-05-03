@@ -1,4 +1,4 @@
-**Data Science and Openshift on the MOC Proposal**
+**Data Science and Openshift on the MOC**
 --------------------------------------------------
 
 **Metors**
