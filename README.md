@@ -17,13 +17,14 @@
 - Nihar Dwivedi		ndwivedi@bu.edu
 - Ojasvi Jhamb		ojhamb@bu.edu
 
-**Project Report**
+**Project Report and Final Video**
 ------------------------------------------
 
 Click [here](https://github.com/BU-CLOUD-S20/Data-Science-and-Openshift-on-the-MOC/blob/master/Data%20Science%20and%20Openshift%20on%20the%20MOC_projectReport.pdf) for a comprehensive Project Report
 
 Our GitHub repo containing our Prometheus Anomaly Detector can be found [here](https://github.com/pallekc91/prometheus-anomaly-detector)
-
+The Final presentation video for our project can be found [here](https://youtu.be/dZmbSw0eiUg).
+The slides for this presentation can be found [here](https://docs.google.com/presentation/d/1Ej-usqv6imtO18ZMMK_EqyoTBqt8eALq3WUn8Z00VRw/edit?usp=sharing).
 
 
 **Goals**
@@ -122,8 +123,3 @@ Developing at least one new ML model (LSTM) and having it monitor any metric whi
 - [Sprint 4](https://docs.google.com/presentation/d/1QcR6yhtNkXyETeQn8KxbGmt9kHp_lsPEb5QBR0uTFgo/edit?usp=sharing)
 - [MapReduce Talk](https://docs.google.com/presentation/d/1tAceg0GshV3ne7VhNXuVF9yplu7TTYOk8pgo5Ifo5ks/edit?usp=sharing)
 - [Sprint 5](https://docs.google.com/presentation/d/179BS_06cfb-J9pX4MJTynOyuEnAQmtR92DuI7FiiFJU/edit?ts=5e9f4187#slide=id.g83e550b1fe_0_344)
- 
- **Link to Final Project Presentation video**
----------------------------------------------
-
-https://youtu.be/dZmbSw0eiUg
