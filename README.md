@@ -1,6 +1,8 @@
 **Data Science and Openshift on the MOC**
 --------------------------------------------------
 
+Pull request accepted by RedHat into [main repo](https://github.com/AICoE/prometheus-anomaly-detector)  on 06/11/2020. 
+
 **Metors**
 ----------
 
